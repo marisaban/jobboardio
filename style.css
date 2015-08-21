@@ -1,0 +1,51 @@
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif !important;
+}
+
+#textalign {
+	text-align: left;
+}
+
+#abovethefold h1 {
+	color: white;
+	font-family: 'Roboto', sans-serif !important;
+}
+#abovethefold h2{
+	color: white;
+	font-family: 'Roboto', sans-serif !important;
+}
+#scenetext {
+	margin-top: -15px;
+}
+ #navtext li a{
+	color: white; 
+}
+
+#navtext li a:hover {
+	color: #6dc5dc; 
+}
+
+#footer {
+	color: white;
+}
+
+.footerlist li {
+	list-style: none;
+	margin-right: 35px;
+}
+.margin-top-double-header {
+	margin-top: 100px;
+	margin-bottom: 85px;
+}
+#description {
+	line-height: 40px;
+}
+hr {
+	margin-top: 100px;
+	margin-bottom: 85px;
+}
+ .btn-line-white {
+    color: #6dc5dc;
+    background-color: white;
+    border-color: #fff;
+  }
